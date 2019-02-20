@@ -1,0 +1,8 @@
+none_ld.o: none_ld.c \
+ /opt/Linaro/xdp/toolchains/gcc-linaro-7.4.1-2019.02-x86_64_arm-linux-gnueabihf/arm-linux-gnueabihf/libc/usr/include/stdc-predef.h
+
+/opt/Linaro/xdp/toolchains/gcc-linaro-7.4.1-2019.02-x86_64_arm-linux-gnueabihf/arm-linux-gnueabihf/libc/usr/include/stdc-predef.h:
+none_ld.os: none_ld.c \
+ /opt/Linaro/xdp/toolchains/gcc-linaro-7.4.1-2019.02-x86_64_arm-linux-gnueabihf/arm-linux-gnueabihf/libc/usr/include/stdc-predef.h
+
+/opt/Linaro/xdp/toolchains/gcc-linaro-7.4.1-2019.02-x86_64_arm-linux-gnueabihf/arm-linux-gnueabihf/libc/usr/include/stdc-predef.h:

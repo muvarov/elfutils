@@ -1,0 +1,7 @@
+next_prime.o: next_prime.c \
+ /opt/Linaro/xdp/toolchains/gcc-linaro-7.4.1-2019.02-x86_64_arm-linux-gnueabihf/arm-linux-gnueabihf/libc/usr/include/stdc-predef.h \
+ /opt/Linaro/xdp/toolchains/gcc-linaro-7.4.1-2019.02-x86_64_arm-linux-gnueabihf/lib/gcc/arm-linux-gnueabihf/7.4.1/include/stddef.h
+
+/opt/Linaro/xdp/toolchains/gcc-linaro-7.4.1-2019.02-x86_64_arm-linux-gnueabihf/arm-linux-gnueabihf/libc/usr/include/stdc-predef.h:
+
+/opt/Linaro/xdp/toolchains/gcc-linaro-7.4.1-2019.02-x86_64_arm-linux-gnueabihf/lib/gcc/arm-linux-gnueabihf/7.4.1/include/stddef.h:
